@@ -1,13 +1,13 @@
 variable "bucket1_name" {
   description = "Name of the first S3 bucket"
   type        = string
-  default     = "hotstaarumullaas"
+  default     = "ankitcr777"
 }
 
 variable "bucket2_name" {
   description = "Name of the second S3 bucket"
   type        = string
-  default     = "hotstaalurus"
+  default     = "ankitcr7777"
 }
 
 variable "environment" {
